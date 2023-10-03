@@ -68,7 +68,7 @@ We welcome pull requests that fix bugs or add new features. Follow the steps men
 
 ## Development Setup
 
-If you need help setting up the development environment, please refer to the [Development Setup](DEVELOPMENT_SETUP.md) guide.
+If you need help setting up the development environment, please refer to the [Join our Discord Server and ask your doubts](https://discord.gg/Nffmzfxy) guide.
 
 ## License
 
