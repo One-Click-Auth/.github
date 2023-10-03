@@ -7,7 +7,7 @@ TrustAuthx is a cutting-edge authentication and authorization solution designed 
 
 ## Contribution guidelines here
 
-**[Read it here](auth_frontend/contributions.md)**
+**[Read it here](contributions.md)**
 
 ----
 
