@@ -4,6 +4,7 @@ Thank you for considering contributing to our open-source project! Your interest
 
 ## Table of Contents 📜
 
+- [Registration Process](#registration-process) 📝
 - [Getting Started](#getting-started) 🚀
 - [Code of Conduct](#code-of-conduct) 🤝
 - [How to Contribute](#how-to-contribute) 🤓
@@ -12,6 +13,25 @@ Thank you for considering contributing to our open-source project! Your interest
 - [Pull Requests](#pull-requests) 🛠️
 - [Development Setup](#development-setup) 💻
 - [License](#license) 📃
+
+
+To become an official contributor to TrustAuthX, please follow these steps and register yourself in the organization's clabot-config public repository. This process helps maintain a record of official contributors, validate contributions, and provides exclusive benefits. 📜
+
+### Registration Process 📝
+
+1. Navigate to the clabot-config public repository within our organization.
+
+2. Open the `.clabot` file and append your GitHub username in JSON format. Then, proceed to create a pull request.
+
+### Contributor License Agreement (CLA) 🖋️
+
+When you create a pull request for the first time, you'll encounter a request from a bot to approve the Contributor License Agreement (CLA). To complete this step, follow these instructions:
+
+1. Copy the text from the comment of the cla assistant bot that says, "I have read the CLA Document and I hereby sign the CLA."
+
+2. Paste this text in the next comment.
+
+Completing this CLA step is crucial to being added to the official contributor list and enjoying other contributor perks. Don't miss out! 🚀
 
 ## Getting Started 🏁
 
@@ -69,3 +89,4 @@ For assistance with setting up the development environment, please refer to our 
 ## License 📃
 
 By contributing to this project, you agree that your contributions will be licensed under our project's [LICENSE](LICENSE.md). Thank you for your support! 🙌
+
